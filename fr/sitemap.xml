@@ -3,59 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://abhishekkumar-0311.github.io/fr/</loc>
+    <loc>https://abhishekkumar-0311.github.io/AKS/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abhishekkumar-0311.github.io/"
+                href="https://abhishekkumar-0311.github.io/AKS/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://abhishekkumar-0311.github.io/AKS/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://abhishekkumar-0311.github.io/AKS/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://abhishekkumar-0311.github.io/AKS/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://abhishekkumar-0311.github.io/bn/"
+                href="https://abhishekkumar-0311.github.io/AKS/bn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://abhishekkumar-0311.github.io/fr/"
+                href="https://abhishekkumar-0311.github.io/AKS/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://abhishekkumar-0311.github.io/fr/categories/</loc>
+    <loc>https://abhishekkumar-0311.github.io/AKS/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abhishekkumar-0311.github.io/categories/"
+                href="https://abhishekkumar-0311.github.io/AKS/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://abhishekkumar-0311.github.io/AKS/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://abhishekkumar-0311.github.io/AKS/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://abhishekkumar-0311.github.io/AKS/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://abhishekkumar-0311.github.io/bn/categories/"
+                href="https://abhishekkumar-0311.github.io/AKS/bn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://abhishekkumar-0311.github.io/fr/categories/"
+                href="https://abhishekkumar-0311.github.io/AKS/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://abhishekkumar-0311.github.io/fr/tags/</loc>
+    <loc>https://abhishekkumar-0311.github.io/AKS/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abhishekkumar-0311.github.io/tags/"
+                href="https://abhishekkumar-0311.github.io/AKS/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://abhishekkumar-0311.github.io/AKS/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://abhishekkumar-0311.github.io/AKS/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://abhishekkumar-0311.github.io/AKS/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://abhishekkumar-0311.github.io/bn/tags/"
+                href="https://abhishekkumar-0311.github.io/AKS/bn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://abhishekkumar-0311.github.io/fr/tags/"
+                href="https://abhishekkumar-0311.github.io/AKS/fr/tags/"
                 />
   </url>
   

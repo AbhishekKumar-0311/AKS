@@ -1,0 +1,19 @@
+# some information about you
+name: "Abhishek Kumar"
+nickname: "Abhishek"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "abhi03.11sharma@gmail.com"
+  phone: "+91 9035841455"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I work with SAS
+  - Love to play with Data
+  - Machine Learning Enthusiast
+  - I work on open-source projects
+  - I love to work with some fun projects

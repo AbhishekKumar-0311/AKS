@@ -1,0 +1,20 @@
+# Copyright Notice
+copyright: © 2021 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Web Portfolio and personal blog of Abhishek Kumar.
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+customMenus:
+- name: More
+  url: https://abhishekumar.co.in
+
+# Commenting it for now
+# Specify OpenGraph Headers
+#openGraph:
+#  title: John's Blog
+#  type: website
+#  description: Portfolio and personal blog of John Doe.
+#  image: images/author/john.png
+#  url: https://hugo-toha.github.io
